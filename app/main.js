@@ -1,3 +1,4 @@
+//I just don tire for this function ohh.
 function computeFactorial(num) {
    var factorial = 1;
    while (num>1){
